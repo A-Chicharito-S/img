@@ -1,7 +1,7 @@
 # paper_summary_1
 this is the vault where images in Paper summary 1 are stored [links to be added here...]
 
-the pic 1 to 13 comes from the following paper (sequentially):
+the pic 1 to 15 comes from the following paper (sequentially):
 
 **Label-Specific Dual Graph Neural Network for Multi-Label Text Classification**   [[paper]](https://aclanthology.org/2021.acl-long.298/)
 
